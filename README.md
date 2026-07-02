@@ -33,14 +33,14 @@ I'm a full-stack / frontend developer working a full-time job by day and shippin
 <tr>
 <td width="50%">
 
-### 💰 CostShift.io
+### 💰 CostShift.io &nbsp;<img src="https://img.shields.io/badge/status-in_dev-1ec8a6?style=flat-square" />
 AI API cost optimization & tracking tool — helps teams monitor and cut down LLM spend across providers.
 <br/>`Next.js` `Node.js` `MongoDB` `Vercel`
 
 </td>
 <td width="50%">
 
-### 🌾 FarmMind AI
+### 🌾 FarmMind AI &nbsp;<img src="https://img.shields.io/badge/status-in_dev-1ec8a6?style=flat-square" />
 Agriculture-focused AI platform with soil/crop vision models and multilingual support for Indian farmers.
 <br/>`Python` `Computer Vision` `Claude API`
 
@@ -49,14 +49,14 @@ Agriculture-focused AI platform with soil/crop vision models and multilingual su
 <tr>
 <td width="50%">
 
-### 🔧 APICraft
+### 🔧 APICraft &nbsp;<img src="https://img.shields.io/badge/status-in_dev-1ec8a6?style=flat-square" />
 API mocking & testing tool built around real workflow simulation, not just feature parity with Postman.
 <br/>`TypeScript` `React` `Node.js`
 
 </td>
 <td width="50%">
 
-### 📝 StackDevLife
+### 📝 StackDevLife &nbsp;<a href="https://stackdevlife.com"><img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square" /></a>
 Developer blog, tools & YouTube channel — automated publishing pipeline via Claude API + GitHub Actions.
 <br/>`Next.js` `Sanity CMS` `Claude API`
 
